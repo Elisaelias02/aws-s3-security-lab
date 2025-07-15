@@ -38,12 +38,8 @@ sudo ./aws/install
 aws --version
 
 ## ⚡ Instalación Rápida del Laboratorio
-
-```bash
 git clone https://github.com/Elisaelias02/aws-s3-security-lab.git
 cd aws-s3-security-lab
 chmod +x setup_lab.sh
 ./setup_lab.sh
-yaml
-Copiar
-Editar
+
