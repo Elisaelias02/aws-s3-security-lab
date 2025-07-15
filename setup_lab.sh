@@ -972,7 +972,7 @@ create_readme() {
     cat > README.md << EOF
 # Laboratorio AWS S3 - Enumeración y Exfiltración
 
-Laboratorio educativo para aprender técnicas de enumeración y análisis de buckets S3 usando Python y Burp Suite.
+Laboratorio para aprender técnicas de enumeración y análisis de buckets S3 usando Python y Burp Suite.
 
 ## Características
 
@@ -1062,6 +1062,7 @@ $BUCKET_NAME/
 ## Disclaimer
 
 Este laboratorio es únicamente para fines educativos. Solo usar en cuentas AWS propias o con autorización explícita.
+Hecho con amor por Elisa Elias. <3
 
 ## Troubleshooting
 
